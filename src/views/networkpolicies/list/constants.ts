@@ -1,0 +1,5 @@
+export const TAB_INDEXES = {
+  ENABLE_MULTI: 2,
+  MULTI_NETWORK: 1,
+  NETWORK: 0,
+};

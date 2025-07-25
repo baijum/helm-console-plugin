@@ -1,0 +1,9 @@
+.networking-route-form {
+  &__service-weight-input {
+    max-width: 300px;
+
+    .pf-v6-c-form-control {
+      max-width: 100px;
+    }
+  }
+}
